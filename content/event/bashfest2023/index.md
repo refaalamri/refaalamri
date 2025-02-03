@@ -46,7 +46,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
-url_pdf: 'uploads/bashfest2023.pdf'
+url_pdf: 'bashfest2023.pdf'
 #url_slides: 'https://slideshare.net'
 #url_video: 'https://youtube.com'
 
@@ -56,7 +56,7 @@ url_pdf: 'uploads/bashfest2023.pdf'
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 
-slides: "slides/bashfest2023"
+slides: "bashfest2023"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
