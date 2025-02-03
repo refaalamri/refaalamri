@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: light
+  color: purple
 
 # SEO
 marketing:
@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: ' '
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,9 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      # Logo filename in `assets/media/` folder
+      filename: "icon.png"
+      text: "Refa Al-Amri"
 
 # Site footer
 footer:
@@ -58,3 +60,5 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+
