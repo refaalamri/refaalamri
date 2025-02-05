@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Current | Refa Al-Amri</title>
-    <link>//localhost:64523/tags/current/</link>
-      <atom:link href="//localhost:64523/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/current/</link>
+      <atom:link href="//localhost:1313/tags/current/index.xml" rel="self" type="application/rss+xml" />
     <description>Current</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:64523/media/icon_hu_d226c2d9df18f275.png</url>
+      <url>//localhost:1313/media/icon_hu_d226c2d9df18f275.png</url>
       <title>Current</title>
-      <link>//localhost:64523/tags/current/</link>
+      <link>//localhost:1313/tags/current/</link>
     </image>
     
     <item>
       <title>A JWST View of the Central Stellar &amp; Gas Kinematics in M87</title>
-      <link>//localhost:64523/research/jwst_m87/</link>
+      <link>//localhost:1313/research/jwst_m87/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:64523/research/jwst_m87/</guid>
+      <guid>//localhost:1313/research/jwst_m87/</guid>
       <description></description>
     </item>
     

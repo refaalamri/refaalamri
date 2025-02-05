@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past | Refa Al-Amri</title>
+    <link>//localhost:1313/tags/past/</link>
+      <atom:link href="//localhost:1313/tags/past/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_d226c2d9df18f275.png</url>
+      <title>Past</title>
+      <link>//localhost:1313/tags/past/</link>
+    </image>
+    
+    <item>
+      <title>Blue Straggler Stars: Candidates Twice as Massive as a &#34;Main-sequence Turnoff&#34; Star</title>
+      <link>//localhost:1313/research/project_temp/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/project_temp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-title: Research
+title: 'Research'
 date: 2024-05-19
 type: landing
 
@@ -12,19 +12,12 @@ sections:
   - block: collection
     id: research
     content:
-      title: Past and Ongoing Research
-      text: Here are a selection of projects that I have worked on over the years.
+      title: 'Past and Ongoing Research'
       filters:
         folders:
           - research
     design:
       view: article-grid
-      fill_image: true
-      columns: 1
-  
-  - block: markdown
-    content:
-      title: ' '
-      text: _previous research projects will be added soon..._
+      columns: 2
 ---
 

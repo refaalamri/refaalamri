@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Refa Al-Amri</title>
-    <link>//localhost:64523/research/</link>
-      <atom:link href="//localhost:64523/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Refa Al-Amri</description>
+    <title>  | Refa Al-Amri</title>
+    <link>//localhost:1313/research/</link>
+      <atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <description> </description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:64523/media/icon_hu_d226c2d9df18f275.png</url>
-      <title>Refa Al-Amri</title>
-      <link>//localhost:64523/research/</link>
+      <url>//localhost:1313/media/icon_hu_d226c2d9df18f275.png</url>
+      <title> </title>
+      <link>//localhost:1313/research/</link>
     </image>
     
     <item>
       <title>A JWST View of the Central Stellar &amp; Gas Kinematics in M87</title>
-      <link>//localhost:64523/research/jwst_m87/</link>
+      <link>//localhost:1313/research/jwst_m87/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:64523/research/jwst_m87/</guid>
+      <guid>//localhost:1313/research/jwst_m87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue Straggler Stars: Candidates Twice as Massive as a &#34;Main-sequence Turnoff&#34; Star</title>
+      <link>//localhost:1313/research/project_temp/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/project_temp/</guid>
       <description></description>
     </item>
     

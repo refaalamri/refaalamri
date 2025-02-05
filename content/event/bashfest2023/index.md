@@ -1,6 +1,7 @@
 ---
-title: A JWST View of the Central Stellar Kinematics in M87
+title: 'A JWST View of the Central Stellar Kinematics in M87'
 subtitle: Poster 
+type: page 
 
 event: "Astronomy Bash Symposium: New Horizons in Astronomy"
 #event_url: https://example.org
@@ -33,7 +34,7 @@ tags:
   - Poster presentation
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
 

@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: 'Talks'
 date: 2024-05-19
 type: landing
 
@@ -12,7 +12,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Conferences, Talks and Presentations
+      title: 'Conferences, Talks and Presentations'
       filters:
         folders:
           - event

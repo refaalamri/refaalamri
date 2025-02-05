@@ -8,14 +8,14 @@ tags:
 
 image:
   caption: 'Image credit:  Event Horizon Telescope (EHT)'
-  focal_point: Right
+  focal_point: right
 
 
 
 sections:
   - block: markdown
     content:
-      title: A JWST View of the Central Stellar & Gas Kinematics in M87
+      title: 'A JWST View of the Central Stellar & Gas Kinematics in M87'
     design:
       css_class: dark
       background:
@@ -32,15 +32,15 @@ sections:
 
   - block: markdown
     content:
-      title: Summary
-      text: I am currently investigating the stellar and gas kinematics at the center of M87, one of the most massive elliptical galaxies in the nearby universe. Using the extraordinary spatial and spectral resolution of the JWST’s NIRSpec Integral Field Unit (IFU), I aim to map the detailed motion of stars and gas in the core of this galaxy. This project will provide valuable insights into the dynamics of one of the most studied galaxy cores, shedding light on the role of black holes in shaping the central regions of galaxies and the broader processes that govern galaxy formation.
-      
-      image:
+      title: 'Summary'
+      text: 'I am currently investigating the stellar and gas kinematics at the center of M87, one of the most massive elliptical galaxies in the nearby universe. Using the extraordinary spatial and spectral resolution of the JWST’s NIRSpec Integral Field Unit (IFU), I aim to map the detailed motion of stars and gas in the core of this galaxy. This project will provide valuable insights into the dynamics of one of the most studied galaxy cores, shedding light on the role of black holes in shaping the central regions of galaxies and the broader processes that govern galaxy formation.'
+  
+  - block: markdown
+    content:
+        image:
           filename: ds9.png
           position: right
           caption: "Figure 1: Collapsed data cube showing the center of M87 observed with JWST's NIRSpec IFU."
-
-    
 
   - block: collection
     id: talks
