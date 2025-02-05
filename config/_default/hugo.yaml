@@ -56,10 +56,3 @@ sitemap:
   _merge: deep
 
 
-############################
-## ADD CUSTOM CSS LINK HERE
-############################
-
-params:
-  customCSS:
-    - "css/custom.css"
