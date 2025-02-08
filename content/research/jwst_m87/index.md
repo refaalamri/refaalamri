@@ -34,10 +34,10 @@ sections:
   - block: markdown
     content:
       title: 'Summary'
-      text: 'I am currently investigating the stellar and gas kinematics at the center of M87, one of the most massive elliptical galaxies in the nearby universe. Using the extraordinary   spatial and spectral resolution of the JWST’s NIRSpec Integral Field Unit (IFU), I aim to map the detailed motion of stars and gas in the core of this galaxy. This project will provide valuable insights into the dynamics of one of the most studied galaxy cores, shedding light on the role of black holes in shaping the central regions of galaxies and the broader processes that govern galaxy formation. 
+      text: 'I am currently investigating the stellar and gas kinematics at the center of M87, one of the most massive elliptical galaxies in the nearby universe. Using the extraordinary           spatial and spectral resolution of the JWST’s NIRSpec Integral Field Unit (IFU), I aim to map the detailed motion of stars and gas in the core of this galaxy. This project will              provide valuable insights into the dynamics of one of the most studied galaxy cores, shedding light on the role of black holes in shaping the central regions of galaxies and the             broader processes that govern galaxy formation. 
 
 
-{{< figure src="static/ds9.png" title="Figure 1: Collapsed data cube showing the center of M87 observed with JWST/NIRSpec IFU." >}}'
+      {{< figure src="static/ds9.png" title="Figure 1: Collapsed data cube showing the center of M87 observed with JWST/NIRSpec IFU." >}}'
 
 
         #{{< figure src="/spec.png" title="Figure 2: Example spectra from a single 0.05ʺ x 0.05ʺ spaxel near the center." >}}'    
