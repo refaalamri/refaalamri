@@ -1,5 +1,5 @@
 ---
-title: 'Research'
+title: 'Past and Ongoing Research'
 date: 2024-05-19
 type: landing
 
