@@ -9,10 +9,12 @@ design:
 
 # Page sections
 sections:
+ - block: markdown
+   title: 'Past and Ongoing Research'
   - block: collection
     id: research
     content:
-      title: 'Past and Ongoing Research'
+      title: ' '
       filters:
         folders:
           - research
