@@ -11,6 +11,7 @@ design:
 sections:
   - block: markdown
     title: 'Past and Ongoing Research'
+    text: ' '
   - block: collection
     id: research
     content:
