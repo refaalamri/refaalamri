@@ -9,8 +9,8 @@ design:
 
 # Page sections
 sections:
- - block: markdown
-   title: 'Past and Ongoing Research'
+  - block: markdown
+    title: 'Past and Ongoing Research'
   - block: collection
     id: research
     content:
