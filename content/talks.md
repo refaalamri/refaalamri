@@ -12,7 +12,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 'Talks and Presentations'
+      title: 'Conferences, Talks and Presentations'
       filters:
         folders:
           - event
