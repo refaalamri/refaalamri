@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Research</title>
+      <title> </title>
       <link>//localhost:1313/research/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/research/</guid>
@@ -49,14 +49,6 @@
       <link>//localhost:1313/research/jwst_m87/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/research/jwst_m87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blue Straggler Stars: Candidates Twice as Massive as a &#34;Main-sequence Turnoff&#34; Star</title>
-      <link>//localhost:1313/research/project_temp/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/project_temp/</guid>
       <description></description>
     </item>
     
