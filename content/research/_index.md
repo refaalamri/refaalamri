@@ -1,5 +1,5 @@
 ---
-title: ' '
+title: 'Past and Ongoing Research'
 cms_exclude: true
 url: research
 
@@ -10,4 +10,5 @@ view: article-grid
 image:
   caption: ''
   filename: ''
+  
 ---

@@ -81,6 +81,7 @@ I am currently investigating the stellar and gas kinematics at the center of M87
 <img src="ds9.png" style="width:400px;height:auto"/> 
 <figcaption>Figure 1 : Collapsed data cube showing the center of M87 observed with JWST/NIRSpec IFU</figcaption>
 </figure>
+
 </main>
 </body>
 
