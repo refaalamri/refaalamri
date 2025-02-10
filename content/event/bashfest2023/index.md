@@ -15,8 +15,7 @@ address:
   country: United States
 
 summary: 'Astronomy Bash Symposium: New Horizons in Astronomy (2023) Poster presentation'
-abstract: 'The supermassive black hole (BH) in the giant elliptical galaxy M87 is one of the most well-
-studied black holes in the local universe, with black hole mass (MBH) measurements from both stellar and gas dynamics. However, different measurement methods yield varying results. To obtain the most robust stellar dynamical measurement for this key anchor to the upper end of the MBH and host galaxy relations, we acquired high angular resolution and high signal-to-noise (S/N) spectra from the James Webb Space Telescope (JWST). Here we present the observations from the central 3x3" of M87 using the NIRSpec integral field unit (IFU) covering a wavelength region of 1.66-3.17 μm. We show preliminary results for the measured stellar kinematics in this region'
+abstract: 'The supermassive black hole (BH) in the giant elliptical galaxy M87 is one of the most well-studied black holes in the local universe, with black hole mass (MBH) measurements from both stellar and gas dynamics. However, different measurement methods yield varying results. To obtain the most robust stellar dynamical measurement for this key anchor to the upper end of the MBH and host galaxy relations, we acquired high angular resolution and high signal-to-noise (S/N) spectra from the James Webb Space Telescope (JWST). Here we present the observations from the central 3x3" of M87 using the NIRSpec integral field unit (IFU) covering a wavelength region of 1.66-3.17 μm. We show preliminary results for the measured stellar kinematics in this region'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -65,7 +64,7 @@ slides: "bashfest2023"
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - []
+  - ["content/research/jwst_m87/index.md"]
 ---
 
 
