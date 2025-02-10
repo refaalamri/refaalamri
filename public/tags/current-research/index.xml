@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Research | Refa Al-Amri</title>
+    <link>//localhost:1313/tags/current-research/</link>
+      <atom:link href="//localhost:1313/tags/current-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_d226c2d9df18f275.png</url>
+      <title>Current Research</title>
+      <link>//localhost:1313/tags/current-research/</link>
+    </image>
+    
+    <item>
+      <title>A JWST View of the Central Stellar &amp; Gas Kinematics in M87</title>
+      <link>//localhost:1313/research/jwst_m87/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/jwst_m87/</guid>
+      <description>&lt;html&gt;
+&lt;head&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h4 id=&#34;summary&#34;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;I am currently investigating the stellar and gas kinematics at the center of M87, one of the most massive elliptical galaxies in the nearby universe. Using the extraordinary spatial and spectral resolution of the JWST’s NIRSpec Integral Field Unit (IFU), I aim to map the detailed motion of stars and gas in the core of this galaxy. This project will provide valuable insights into the dynamics of one of the most studied galaxy cores, shedding light on the role of black holes in shaping the central regions of galaxies and the broader processes that govern galaxy formation.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;//localhost:1313/ds9.png&#34; style=&#34;width:auto;height:auto&#34;/&gt;
+&lt;figcaption&gt;Figure 1 : Collapsed data cube showing the center of M87 observed with JWST/NIRSpec IFU&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;body&gt;
+&lt;html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
