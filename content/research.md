@@ -1,5 +1,5 @@
 ---
-title: 'Research'
+title: ' '
 date: 2024-05-19
 type: landing
 
@@ -9,10 +9,13 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    title: 'Past and Ongoing Research'
+    text: ' '
   - block: collection
     id: research
     content:
-      title: 'Past and Ongoing Research'
+      title: ' '
       filters:
         folders:
           - research
