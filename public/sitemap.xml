@@ -18,27 +18,27 @@
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/talks/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/talk/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/talk/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/event/aot2024/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/public-talk/</loc>
+    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/talks/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/event/bashfest2023/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/event/aot2024/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>//localhost:1313/tags/poster-presentation/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/public-talk/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -56,6 +56,10 @@
   </url><url>
     <loc>//localhost:1313/tags/past-research/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/event/bss_thesis/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/publication_types/</loc>

@@ -19,15 +19,27 @@
       <guid>//localhost:1313/research/jwst_m87/</guid>
       <description>&lt;html&gt;
 &lt;head&gt;
+  &lt;style&gt;
+    .image-band {
+      width: 100%; /* Full width */
+      height: 100px; /* Adjust the height to make it thin */
+      background-image: url(&#39;featured.png&#39;); /* Replace with your image path */
+      background-size: cover; /* Ensures the image covers the entire band */
+      background-repeat: no-repeat; /* Prevents tiling */
+      background-position: center; /* Centers the image */
+  &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
+&lt;main&gt;
+ &lt;div class=&#34;image-band&#34;&gt;&lt;/div&gt;
 &lt;h4 id=&#34;summary&#34;&gt;Summary&lt;/h4&gt;
 &lt;p&gt;I am currently investigating the stellar and gas kinematics at the center of M87, one of the most massive elliptical galaxies in the nearby universe. Using the extraordinary spatial and spectral resolution of the JWST’s NIRSpec Integral Field Unit (IFU), I aim to map the detailed motion of stars and gas in the core of this galaxy. This project will provide valuable insights into the dynamics of one of the most studied galaxy cores, shedding light on the role of black holes in shaping the central regions of galaxies and the broader processes that govern galaxy formation.&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&#34;//localhost:1313/ds9.png&#34; style=&#34;width:auto;height:auto&#34;/&gt;
+&lt;figure style=&#34;display: block; margin-left: 100px; margin-right: 100px; text-align: center&#34;&gt;
+&lt;img src=&#34;ds9.png&#34; style=&#34;width:400px;height:auto&#34;/&gt; 
 &lt;figcaption&gt;Figure 1 : Collapsed data cube showing the center of M87 observed with JWST/NIRSpec IFU&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;body&gt;
+&lt;/main&gt;
+&lt;/body&gt;
 &lt;html&gt;
 </description>
     </item>
