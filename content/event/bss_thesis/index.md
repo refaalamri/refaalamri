@@ -1,5 +1,5 @@
 ---
-title: 'Blue Stragler Stars'
+title: 'Blue straggler Stars'
 #subtitle: Undergraduate Thesis Poster
 date: '2021-02-28'
 type: page 
