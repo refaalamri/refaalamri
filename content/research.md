@@ -13,6 +13,7 @@ sections:
     id: research
     content:
       title: 'Past and Ongoing Research'
+      text: ' '
       filters:
         folders:
           - research

@@ -5,7 +5,7 @@
     <link>//localhost:1313/talk/</link>
       <atom:link href="//localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu_d226c2d9df18f275.png</url>
       <title> </title>
@@ -13,11 +13,126 @@
     </image>
     
     <item>
+      <title>Astronomy On Tap #69: Life in the Universe</title>
+      <link>//localhost:1313/event/aot2024/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/event/aot2024/</guid>
+      <description>&lt;figure&gt;
+&lt;img src=&#34;69.png&#34; style=&#34;width:auto;height:auto&#34;/&gt;
+&lt;/figure&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9l91{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-60hs{font-size:18px;text-align:left;vertical-align:top}
+&lt;/style&gt;
+&lt;table class=&#34;tg&#34; style=&#34;undefined;table-layout: fixed; width: 675px&#34;&gt;&lt;colgroup&gt;
+&lt;col style=&#34;width: 120px&#34;&gt;
+&lt;col style=&#34;width: 400px&#34;&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Summary&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;This talk explores the diversity of life on Earth and the exciting prospects of discovering life beyond our planet. It examines promising locations within our Solar System—such as Mars, Europa, Enceladus, and Titan—where conditions might support life. Beyond the Solar System, astronomers are searching for habitable environments through the discovery of exoplanets, with missions like TESS, SETI and JWST aimed at detecting signs of life or advanced civilizations.&lt;br&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Date &lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;August 28, 2024.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Event&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;Astronomy on Tap BCS.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Location&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;Grand Stafford Theater, &lt;br&gt;106 S. Main St,&lt;br&gt; BRYAN TX.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description>
+    </item>
+    
+    <item>
       <title>A JWST View of the Central Stellar Kinematics in M87</title>
       <link>//localhost:1313/event/bashfest2023/</link>
-      <pubDate>Mon, 30 Oct 2023 13:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/event/bashfest2023/</guid>
-      <description></description>
+      <description>&lt;figure&gt;
+&lt;img src=&#34;bashfest_poster.jpg&#34; style=&#34;width:auto;height:auto&#34;/&gt;
+&lt;/figure&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9l91{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-60hs{font-size:18px;text-align:left;vertical-align:top}
+&lt;/style&gt;
+&lt;table class=&#34;tg&#34; style=&#34;undefined;table-layout: fixed; width: 675px&#34;&gt;&lt;colgroup&gt;
+&lt;col style=&#34;width: 120px&#34;&gt;
+&lt;col style=&#34;width: 400px&#34;&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Abstract&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;The supermassive black hole (BH) in the giant elliptical galaxy M87 is one of the most well-studied black holes in the local universe, with black hole mass (MBH) measurements from both stellar and gas dynamics. However, different measurement methods yield varying results. To obtain the most robust stellar dynamical measurement for this key anchor to the upper end of the MBH and host galaxy relations, we acquired high angular resolution and high signal-to-noise (S/N) spectra from the James Webb Space Telescope (JWST). Here we present the observations from the central 3x3&#34; of M87 using the NIRSpec integral field unit (IFU) covering a wavelength region of 1.66-3.17 μm. We show preliminary results for the measured stellar kinematics in this region.&lt;br&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Date &lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;October 31, 2023.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Event&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;Astronomy Bash Symposium: New Horizons in Astronomy.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Location&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;UT Austin, &lt;br&gt;2515 Speedway,&lt;br&gt;Austin,&lt;br&gt;TX, 78712.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blue Stragler Stars</title>
+      <link>//localhost:1313/event/bss_thesis/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/event/bss_thesis/</guid>
+      <description>&lt;figure&gt;
+&lt;img src=&#34;BSS.png&#34; style=&#34;width:auto;height:auto&#34;/&gt;
+&lt;/figure&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9l91{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-60hs{font-size:18px;text-align:left;vertical-align:top}
+&lt;/style&gt;
+&lt;table class=&#34;tg&#34; style=&#34;undefined;table-layout: fixed; width: 675px&#34;&gt;&lt;colgroup&gt;
+&lt;col style=&#34;width: 120px&#34;&gt;
+&lt;col style=&#34;width: 400px&#34;&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Summary&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;At my undergraduate thesis poster session, I presented research on blue straggler stars, which are unusually massive stars in star clusters that defy standard stellar evolution theories. My study focused on finding blue stragglers with masses about twice that of the main sequence turn-off stars, examining their formation mechanisms and implications for cluster dynamics. &lt;br&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Date &lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;December 2, 2021.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Event&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;Undergraduate Thesis Poster Session.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-9l91&#34;&gt;Location&lt;/td&gt;
+    &lt;td class=&#34;tg-60hs&#34;&gt;Compton Union Building (CUB): Junior Ballroom, &lt;br&gt;1500 Glenn Terrell Mall,&lt;br&gt; Pullman, WA.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description>
     </item>
     
   </channel>

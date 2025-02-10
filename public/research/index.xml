@@ -5,7 +5,7 @@
     <link>//localhost:1313/research/</link>
       <atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu_d226c2d9df18f275.png</url>
       <title> </title>
@@ -15,9 +15,21 @@
     <item>
       <title>A JWST View of the Central Stellar &amp; Gas Kinematics in M87</title>
       <link>//localhost:1313/research/jwst_m87/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/research/jwst_m87/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+&lt;head&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h4 id=&#34;summary&#34;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;I am currently investigating the stellar and gas kinematics at the center of M87, one of the most massive elliptical galaxies in the nearby universe. Using the extraordinary spatial and spectral resolution of the JWST’s NIRSpec Integral Field Unit (IFU), I aim to map the detailed motion of stars and gas in the core of this galaxy. This project will provide valuable insights into the dynamics of one of the most studied galaxy cores, shedding light on the role of black holes in shaping the central regions of galaxies and the broader processes that govern galaxy formation.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;//localhost:1313/ds9.png&#34; style=&#34;width:auto;height:auto&#34;/&gt;
+&lt;figcaption&gt;Figure 1 : Collapsed data cube showing the center of M87 observed with JWST/NIRSpec IFU&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;body&gt;
+&lt;html&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +37,9 @@
       <link>//localhost:1313/research/project_temp/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/research/project_temp/</guid>
-      <description></description>
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary&lt;/h4&gt;
+&lt;p&gt;My undergraduate thesis focused on identifying blue straggler star candidates that are more than twice as massive as the &amp;ldquo;main-sequence turn off&amp;rdquo; star. Blue straggler stars are main-sequence stars higher in luminosity and bluer than the average main sequence turn-off star in their associated clusters. They are an important conversation in astronomy because they challenge the preexisting stellar evolutionary models. Answering questions about their formation origins could alter, add or completely change the existing theory of stellar evolution. The study was conducted using the GAIA database to confirm the membership of the stars in several clusters.  Stellar isochrones were used to determine the mass of the blue straggler star and main sequence turn-off star. This study shows that blue straggler stars are prevalent in star clusters andd most of the blue straggler candidates found were almost twice as large as the main sequence turn-off star. The significant implications of these results indicate that ambiguity regarding the specific merger method of formation still exists.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
