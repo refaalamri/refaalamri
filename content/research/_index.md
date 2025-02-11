@@ -10,5 +10,4 @@ view: article-grid
 image:
   caption: ''
   filename: ''
-  
 ---
