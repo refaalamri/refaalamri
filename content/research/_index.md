@@ -1,5 +1,5 @@
 ---
-title: 'Past and Ongoing Research'
+title: ''
 cms_exclude: true
 url: research
 
