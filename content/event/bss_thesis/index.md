@@ -33,7 +33,7 @@ slides:  'BSS.pdf'
   padding:10px 5px;word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9l91{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9l91{font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-60hs{font-size:18px;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 100%"><colgroup>
