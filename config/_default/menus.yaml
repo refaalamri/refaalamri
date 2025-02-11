@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: research/
+    url: /research
     weight: 11
   - name: Talks
     url: /talks
@@ -20,7 +20,7 @@ main:
 #    url: /#news
 #    weight: 30
   - name: Experience
-    url: experience/
+    url: /experience
     weight: 13
 #  - name: Teaching
 #    url: teaching/
