@@ -34,9 +34,9 @@ image:
 .tg .tg-9l91{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-60hs{font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 675px"><colgroup>
-<col style="width: 120px">
-<col style="width: 400px">
+<table class="tg" style="undefined;table-layout: fixed; width: 100%"><colgroup>
+<col style="width: 25%">
+<col style="width: 75%">
 </colgroup>
 <tbody>
   <tr>

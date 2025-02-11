@@ -20,9 +20,3 @@ sections:
       view: article-grid
       columns: 2
 ---
-<div class="home-section-bg"></div>
-<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6 md:px-0">
-  <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
-    Past and Ongoing Research
-  </div>
-</div>
