@@ -199,4 +199,4 @@ awards:
 
 ## ABOUT ME
 
-I am a third-year graduate student in the Department of Physics and Astronomy at Texas A&M University, where my research focuses on understanding the role of black holes in early-type galaxies. My work seeks to explore the connection between supermassive black holes and the evolution of their host galaxies, with an emphasis on galaxy dynamics.
+I am a fourth-year graduate student in the Department of Physics and Astronomy at Texas A&M University, where my research focuses on understanding the role of black holes in early-type galaxies. My work seeks to explore the connection between supermassive black holes and the evolution of their host galaxies, with an emphasis on galaxy dynamics.
