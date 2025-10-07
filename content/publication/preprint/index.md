@@ -1,13 +1,17 @@
 ---
-title: "An example preprint / working paper"
-draft: true
+title: "Mapping the Stellar Kinematics in the Central 240 Parsecs of M87 with the James Webb Space Telescope"
+#draft: true
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Jonelle L. Walsh
+- Emily R. Liepold
+- Chung-Pei Ma
+- Jenny E. Greene.
+date: "2025-10-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,27 +22,28 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The supermassive black hole (SMBH) in the giant elliptical galaxy M87 is one of the most well-studied in the local universe, but the stellar- and gas-dynamical SMBH mass measurements disagree. As this galaxy is a key anchor for the upper end of the SMBH mass$-$host galaxy relations, we revisit the central $3\arcsec\times 3\arcsec$ ($\sim 240\times240$ pc) region of M87 with the Near Infrared Spectrograph (NIRSpec) integral field unit (IFU) on the James Webb Space Telescope (JWST). We implement several improvements to the reduction pipeline and obtain high signal-to-noise spectra ($S/N \sim 150$) in single 0\farcs05 spaxels across much of the NIRSpec field of view. We measure the detailed shape of the stellar line-of-sight velocity distribution, parameterized by Gauss-Hermite moments up to $h_8$, in $\sim 2800$ spatial bins, substantially improving upon the prior high angular resolution studies of the M87 stellar kinematics. The NIRSpec data reveal velocities with $V \sim \pm 45$ \kms, velocity dispersions that rise sharply to $\sim$$420$ \kms\ at a projected radius of 0\farcs45 (36 pc), and a slight elevation in $h_4$ toward the nucleus. We comprehensively test the robustness of the kinematics, including using multiple velocity template libraries and adopting different polynomials to adjust the template spectra. We find that the NIRSpec stellar kinematics seamlessly transition to recently measured large-scale stellar kinematics from optical Keck Cosmic Web Imager (KCWI) IFU data. These combined NIRSpec and KCWI kinematics provide continuous coverage from parsec to kiloparsec scales and will critically constrain future stellar-dynamical models of M87.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna #sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+#- Large Language Models
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+- name: arXiv
+  url: 'https://arxiv.org/abs/2510.02439'
+url_pdf: 'https://arxiv.org/pdf/2510.02439'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,12 +66,5 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

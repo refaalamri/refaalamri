@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refa Al-Amri</title>
+    <link>//localhost:1313/papers/</link>
+      <atom:link href="//localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Refa Al-Amri</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_d226c2d9df18f275.png</url>
+      <title>Refa Al-Amri</title>
+      <link>//localhost:1313/papers/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the Stellar Kinematics in the Central 240 Parsecs of M87 with the James Webb Space Telescope</title>
+      <link>//localhost:1313/publication/preprint/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: ''
 cms_exclude: true
-draft: true
+url: papers
 
 # View.
 view: citation
