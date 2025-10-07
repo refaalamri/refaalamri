@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Paper'
 cms_exclude: true
 url: papers
 
