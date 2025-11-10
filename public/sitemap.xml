@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/publication_types/article/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/publication/preprint/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/papers/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/publication_types/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/research/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -64,13 +80,6 @@
   </url><url>
     <loc>//localhost:1313/event/bss_thesis/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/papers/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

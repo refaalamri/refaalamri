@@ -40,7 +40,7 @@ image:
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-9l91">Summary</td>
+    <td class="tg-9l91">Summary:</td>
     <td class="tg-60hs">This talk explores the diversity of life on Earth and the exciting prospects of discovering life beyond our planet. It examines promising locations within our Solar System—such as Mars, Europa, Enceladus, and Titan—where conditions might support life. Beyond the Solar System, astronomers are searching for habitable environments through the discovery of exoplanets, with missions like TESS, SETI and JWST aimed at detecting signs of life or advanced civilizations.<br></td>
   </tr>
   <tr>
