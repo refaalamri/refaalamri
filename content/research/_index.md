@@ -1,5 +1,5 @@
 ---
-title: ''
+title: ' '
 cms_exclude: true
 url: research
 

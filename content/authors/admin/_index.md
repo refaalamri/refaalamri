@@ -64,7 +64,7 @@ education:
   - area: MSc Astronomy
     institution: Texas A&M University
     date_start: 2022-08-01
-    date_end: ""
+    date_end: 2025-09-25
     #summary: |
     #  GPA: 3.8/4.0
 

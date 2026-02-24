@@ -45,7 +45,7 @@ image:
   </tr>
   <tr>
     <td class="tg-9l91">Date </td>
-    <td class="tg-60hs">August 28, 2024.</td>
+    <td class="tg-60hs">October 22, 2025.</td>
   </tr>
   <tr>
     <td class="tg-9l91">Event</td>
@@ -53,6 +53,6 @@ image:
   </tr>
   <tr>
     <td class="tg-9l91">Location</td>
-    <td class="tg-60hs">Grand Stafford Theater, <br>106 S. Main St,<br> BRYAN TX.</td>
+    <td class="tg-60hs">The 101, <br>101 S TEXAS AVE,,<br> BRYAN TX.</td>
   </tr>
 </tbody></table>
