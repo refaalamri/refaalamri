@@ -95,6 +95,14 @@
     </item>
     
     <item>
+      <title>Mapping the Stellar Kinematics in the Central 240 pc of M87 with the James Webb Space Telescope</title>
+      <link>//localhost:1313/publication/journal-article/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Astronomy On Tap #80: Galaxies are Bad at Being Alone.</title>
       <link>//localhost:1313/event/aot2026/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
@@ -177,14 +185,6 @@
     </item>
     
     <item>
-      <title>Mapping the Stellar Kinematics in the Central 240 Parsecs of M87 with the James Webb Space Telescope</title>
-      <link>//localhost:1313/publication/preprint/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/preprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A JWST View of the Central Stellar &amp; Gas Kinematics in M87</title>
       <link>//localhost:1313/research/jwst_m87/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
@@ -258,10 +258,26 @@
     </item>
     
     <item>
+      <title>Beyond Research</title>
+      <link>//localhost:1313/beyond_research/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/beyond_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Papers</title>
       <link>//localhost:1313/papers/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
       <description></description>
     </item>
     

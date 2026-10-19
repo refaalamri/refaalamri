@@ -10,7 +10,7 @@ authors:
   - admin
 
 tags:
-  - Poster presentation
+  - Contributed Talk
 
 # Is this a featured talk? (true/false)
 featured: true

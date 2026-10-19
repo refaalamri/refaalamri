@@ -1,6 +1,6 @@
 ---
 title: "Mapping the Stellar Kinematics in the Central 240 Parsecs of M87 with the James Webb Space Telescope"
-#draft: true
+draft: true
 authors:
 - admin
 - Jonelle L. Walsh

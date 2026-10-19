@@ -5,7 +5,7 @@
     <link>//localhost:1313/papers/</link>
       <atom:link href="//localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Papers</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu_d226c2d9df18f275.png</url>
       <title>Papers</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Mapping the Stellar Kinematics in the Central 240 Parsecs of M87 with the James Webb Space Telescope</title>
-      <link>//localhost:1313/publication/preprint/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/preprint/</guid>
+      <title>Mapping the Stellar Kinematics in the Central 240 pc of M87 with the James Webb Space Telescope</title>
+      <link>//localhost:1313/publication/journal-article/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/journal-article/</guid>
       <description></description>
     </item>
     
